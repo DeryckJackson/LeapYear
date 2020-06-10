@@ -8,6 +8,21 @@
 
 The purpose of this simple webpage is to let a user know if a year entered is a leap year.
 
+## Specifications
+
+* The program should return when a year is not a leap year.
+  * **Input Example:** 1993
+  * **Output Example:** false
+* The program should return 'true' for years divisible by 4, since those are leap years.
+  * **Input Example:** 2004
+  * **Output Example:** true
+* The program should return 'false' for years divisible by 100, since those are not leap years.
+  * **Input Example:** 1900
+  * **Output Example:** false
+* The program should return 'true' for years divisible by 400, since those are leap years.
+  * **Input Example:** 2000
+  * **Output Example:** true
+
 ## Setup/Installation Requirements
 
 * Find the repository of this application [here](https://github.com/vguer/LeapYear.git) and click the green "Clone or Download Folder" to download a zip file with all its contents.
